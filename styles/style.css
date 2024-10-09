@@ -169,6 +169,7 @@ button {
 .bottom-section {
     display: flex;
     justify-content: space-between;
+    height: 700px;
 }
 
 .description-box {
